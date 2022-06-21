@@ -7,6 +7,8 @@ A project whose aim was to learn how to create websites with databases.
 
 The main goal of the project was to create a website in PHP that will connect to the MySQL database and retrieve data about the store's products from it. Also we have basic CSS.
 
+logowanie.sql is database builder file.
+
 ## Example implemented things
 The website has implemented:
 * Login and register page
