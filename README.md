@@ -1,5 +1,5 @@
 # Sklep-internetowy
-Example shop website (frontend + backend).
+Example shop website (frontend + backend)
 
 ## General info
 A project whose aim was to learn how to create websites with databases.
